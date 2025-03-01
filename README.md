@@ -173,30 +173,10 @@ Hospital Management System makes it easy to get access to the management system 
 Cost Effective:
 Not only saves time in the hospital but also is cost-effective in decreasing the number of people working on the system of manual entry of data and paperwork. The implementation of His will decrease the human intervention into the system thereby avoiding human-caused errors.
 
-
-
-
-
-
-Team members' names, index numbers and email addresses
-
-
-Group Name 	CSVJ THEME Technology 2021 
-
-Team Members
-
-W.G.J.		Chathuranjana		SOF/19/B2/01		jayadul2015@gmail.com    /   
-sof19b201@uovt.ac.lk 
-
-A.		Sajudha			SOF/19/B2/04	 	sof19b204@uovt.ac.lk
- 
-W.D.D.S.	Visath			SOF/19/B2/23		sof19b223@uovt.ac.lk
+Technology 2021
 
 B.L.		Johnson		SOF/19/B2/36 		ahnsonjo@gmail.com  / 
 sof19b236@uovt.ac.lk 
-
-
-
 
 The link to the GitHub repository.
 
